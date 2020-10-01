@@ -1,3 +1,9 @@
 Natacha N'attacha pas son chat pacha qui l'échappa
 
 Bonjour tout le monde
+
+
+Class Voiture extends Vehicule()
+{
+	Super()
+}
